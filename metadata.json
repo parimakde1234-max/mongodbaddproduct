@@ -1,0 +1,6 @@
+{
+  "name": "Aura Commerce - Admin & Storefront",
+  "description": "Full-featured e-commerce platform with Admin management panel and interactive Customer storefront, featuring multi-image galleries, variants, stock management, and MongoDB integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
